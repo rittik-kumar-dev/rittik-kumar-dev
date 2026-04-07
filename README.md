@@ -1,6 +1,6 @@
 # Hi, I'm Rittik 👋
 
-CSE Student (4th Semester)  
+CSE Student (5th Semester)  
 Focused on Data Structures & Algorithms  
 Currently learning Python & Backend Development  
 
