@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rittik 👋
 
-<!--
-**rittik-kumar-dev/rittik-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student (4th Semester)  
+Focused on Data Structures & Algorithms  
+Currently learning Python & Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- C++
+- Python (Learning)
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Current Goals
+- Solve 500+ DSA problems  
+- Reach 1400 rating on Codeforces  
+- Build real-world backend projects  
+
+---
+
+## 📘 DSA Practice
+- Solving problems on LeetCode & Codeforces  
+- Focus on Arrays, Recursion, DP  
+
+---
+
+## 📂 Projects
+Coming soon...
+
+---
+
+## 🔗 Connect
+- GitHub: https://github.com/rittik-kumar-dev
