@@ -5,8 +5,8 @@
 I'm a Computer Science student passionate about solving problems, building software, and continuously improving my development skills.
 
 Currently focusing on:
-- Data Structures & Algorithms
 - Python Backend Development
+- Data Structures & Algorithms
 - Software Engineering Fundamentals
 
 ---
