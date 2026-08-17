@@ -2,7 +2,6 @@
 
 ### CSE Student | Python | Java | C++ | DSA | Backend Development
 ![Profile Views](https://komarev.com/ghpvc/?username=rittik-kumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
-
 I'm a Computer Science student passionate about solving problems, building software, and continuously improving my development skills.
 
 Currently focusing on:
