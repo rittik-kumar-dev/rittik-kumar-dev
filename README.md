@@ -66,7 +66,6 @@ Collection of Data Structures and Algorithm problems solved in C++.
 - Solve 200+ DSA problems
 - Build 10 quality GitHub projects
 - Learn FastAPI
-- Start Freelancing
 - Contribute to Open Source
 
 ---
