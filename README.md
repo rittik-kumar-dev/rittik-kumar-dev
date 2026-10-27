@@ -1,34 +1,38 @@
-# Hi, I'm Rittik 👋
 
-### CSE Student | Python | Java | C++ | DSA | Backend Development
+# Hi there, I'm Rittik! 👋
 
-I'm a Computer Science student passionate about solving problems, building software, and continuously improving my development skills.
+### 🎓 CSE Student | 💻 Backend Developer | 🧠 Problem Solver
 
-Currently focusing on:
-- Python Backend Development
-- Data Structures & Algorithms
-- Software Engineering Fundamentals
+I'm a Computer Science and Engineering student passionate about building practical software, solving algorithmic problems, and understanding how systems work behind the scenes.
 
----
+- 🔭 **Currently working on:** Python projects and backend development
+- 🌱 **Currently learning:** FastAPI, advanced DSA, and database design
+- 💻 **Languages:** Python, C++, Java, and SQL
+- 🎯 **Career goal:** Backend software developer
+- ⚡ **Interests:** Algorithms, databases, and software engineering
 
-# 🛠 Tech Stack
 
-### Languages
 
-- C++
-- Python
-- Java
-- SQL
+## 🛠️ Tech Stack
 
-### Tools
+### 💻 Programming Languages
 
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 # 📚 Currently Learning
 
@@ -40,25 +44,30 @@ Currently focusing on:
 
 ---
 
-# 🚀 Featured Projects
 
-### 🎮 Sudoku Solver
+## 🚀 Featured Projects
 
-JavaFX Sudoku Solver using Backtracking Algorithm.
+### 💊 [Pharmacy Management System](https://github.com/rittik-kumar-dev/pharmacy-management-system)
+A Python desktop application using Tkinter and MySQL for medicine inventory, sales, billing, supplier management, and reporting.
 
-### 💊 Pharmacy Management System
+**Tech:** `Python` `Tkinter` `MySQL`
 
-Semester project using Python, Tkinter and MySQL.
+### 🎮 [Sudoku Solver](https://github.com/rittik-kumar-dev/sudoku-solver)
+A JavaFX application that solves Sudoku puzzles using the backtracking algorithm.
 
-### 💰 Expense Tracker
+**Tech:** `Java` `JavaFX` `Backtracking`
 
-Command Line Expense Tracker built using Python and JSON.
+### 💰 [Expense Tracker](https://github.com/rittik-kumar-dev/expense-tracker)
+A Python command-line application for tracking expenses using JSON storage.
 
-### 📘 DSA Practice
+**Tech:** `Python` `JSON` `CLI`
 
-Collection of Data Structures and Algorithm problems solved in C++.
+### 📘 [DSA Practice](https://github.com/rittik-kumar-dev/DSA-Practice)
+A collection of data structures and algorithms problems solved in C++.
 
----
+**Tech:** `C++` `DSA`
+
+
 
 # 🎯 2026 Goals
 
@@ -84,9 +93,10 @@ Collection of Data Structures and Algorithm problems solved in C++.
   <img src="https://streak-stats.demolab.com?user=rittik-kumar-dev&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-# 📫 Contact
 
-Email: rittikkumar156@gmail.com
+## 📫 Contact
 
-GitHub:
-https://github.com/rittik-kumar-dev
+📧 **Email:** [rittikkumar156@gmail.com](mailto:rittikkumar156@gmail.com)
+
+💻 **GitHub:** [rittik-kumar-dev](https://github.com/rittik-kumar-dev)
+
